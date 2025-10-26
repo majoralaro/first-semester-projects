@@ -1,0 +1,11 @@
+{
+    "total_products_sold": 27,
+    "most_popular_product": "Soda",
+    "revenue_per_customer": {
+        "Alice Johnson": 8.0,
+        "Bob Smith": 6.0,
+        "Charlie Brown": 25.0,
+        "Dana Lee": 5.0,
+        "Eve Kim": 1.5
+    }
+}
